@@ -1,3 +1,3 @@
 # Kokoa-Challenge
 Challenge for HTML and CSS
-Thank you NomadCoders! 
+<br>Thank you NomadCoders! 
